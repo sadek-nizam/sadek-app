@@ -1,2 +1,2 @@
 this is my first app!
-thanl you :)
+thank you :)
